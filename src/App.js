@@ -8,7 +8,8 @@ import React,{useState} from 'react';
 import {
   BrowserRouter as Router,
   Routes,
-  Route} from "react-router-dom";
+  Route,
+  BrowserRouter} from "react-router-dom";
 
 function App() {
 
@@ -43,7 +44,8 @@ function App() {
 
   return (
     <>
-    <Router>
+    
+    <Router basename='/aniketreactapp'>
       <Navbar title="TextUtils" about="About TextUtils" mode={mode} toggleMode={toggleMode}/>
       <Alert alert={alert}/>
      
@@ -55,6 +57,7 @@ function App() {
         </Routes>
        
      </Router>
+     
       
       
     </>
