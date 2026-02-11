@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aniketreactapp/static/css/main.dc4d6ff2.css",
+    "main.js": "/aniketreactapp/static/js/main.55dcd0f4.js",
+    "static/js/453.e307cfd4.chunk.js": "/aniketreactapp/static/js/453.e307cfd4.chunk.js",
+    "index.html": "/aniketreactapp/index.html",
+    "main.dc4d6ff2.css.map": "/aniketreactapp/static/css/main.dc4d6ff2.css.map",
+    "main.55dcd0f4.js.map": "/aniketreactapp/static/js/main.55dcd0f4.js.map",
+    "453.e307cfd4.chunk.js.map": "/aniketreactapp/static/js/453.e307cfd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.55dcd0f4.js"
+  ]
+}
